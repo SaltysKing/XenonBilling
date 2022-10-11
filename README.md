@@ -1,1 +1,1 @@
-+# Stripe based checkout code | Base for XeBill Stripe Module.
++ Stripe based checkout code | Base for XeBill Stripe Module.
